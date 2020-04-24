@@ -26,7 +26,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Practico4/Practico4.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Practico10.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.Practico10">
@@ -93,11 +93,33 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Prueba3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Practico10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prueba3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Practico10" />
         <item itemvalue="Python.Prueba2" />
         <item itemvalue="Python.Prueba" />
+        <item itemvalue="Python.Prueba3" />
       </list>
     </recent_temporary>
   </component>
@@ -115,29 +137,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1587677844873">
+    <state x="277" y="0" key="#Notifications" timestamp="1587738248930">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587677844873" />
-    <state width="1344" height="174" key="GridCell.Tab.0.bottom" timestamp="1587685632608">
+    <state x="277" y="0" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1587738248930" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1587759884159">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587685632608" />
-    <state width="1344" height="174" key="GridCell.Tab.0.center" timestamp="1587685632608">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587759884159" />
+    <state width="1344" height="200" key="GridCell.Tab.0.bottom" timestamp="1587759950478">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587685632608" />
-    <state width="1344" height="174" key="GridCell.Tab.0.left" timestamp="1587685632608">
+    <state width="1344" height="200" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587759950478" />
+    <state width="1344" height="200" key="GridCell.Tab.0.center" timestamp="1587759950478">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587685632608" />
-    <state width="1344" height="174" key="GridCell.Tab.0.right" timestamp="1587685632608">
+    <state width="1344" height="200" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587759950478" />
+    <state width="1344" height="200" key="GridCell.Tab.0.left" timestamp="1587759950478">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587685632608" />
+    <state width="1344" height="200" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587759950478" />
+    <state width="1344" height="200" key="GridCell.Tab.0.right" timestamp="1587759950478">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="200" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587759950478" />
     <state x="118" y="0" key="SettingsEditor" timestamp="1587677768145">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="118" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587677768145" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587757010050">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587757010050" />
   </component>
 </project>
