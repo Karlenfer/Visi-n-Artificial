@@ -36,8 +36,8 @@ cv2.setMouseCallback('Seleccion de puntos', seleccion_de_puntos)
 cv2.imshow('Seleccion de puntos', imagen_seleccion_de_ptos)
 
 # Se pide ingresar el ancho del objeto conocido
-ancho_del_objeto = float(input('Ingrese el ancho del objeto conocido en dimensiones: '))
-alto_del_objeto = float(input('Ingrese el alto del objeto conocido en dimensiones: '))
+ancho_del_objeto = float(input('Ingrese el ancho del objeto conocido (cm): '))
+alto_del_objeto = float(input('Ingrese el alto del objeto conocido (cm): '))
 proporcion = alto_del_objeto/ancho_del_objeto
 
 print('Seleccione las esquinas del objeto que conoce las dimensiones')
