@@ -21,8 +21,7 @@ edged = cv2.dilate(edged, None, iterations=9)
 edged = cv2.erode(edged, None, iterations=9)
 
 # find contours in the edge map
-cnts = cv2.findContours(edged.copy(), cv2.RETR_EXTERNAL,
-	cv2.CHAIN_APPROX_SIMPLE)
+cnts = cv2.findContours(edged.copy(), cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
 cnts = imutils.grab_contours(cnts)
 
 # sort the contours from left-to-right and initialize the

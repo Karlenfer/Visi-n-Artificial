@@ -48,6 +48,10 @@ while (seleccion_terminada == False): # Refresco la imagen de selección de punt
 
 if seleccion_terminada == True:
     # Obtenemos la matriz M
+    print(x1, y1)
+    print(x2, y2)
+    print(x3, y3)
+    print(x4, y4)
     pts1 = np.float32([[x1, y1], [x2, y2], [x3, y3], [x4, y4]])
     pts2 = np.float32([[x1, y1], [x2, y1], [x2, y1 + ((x2 - x1)*proporcion)], [x1, y1 + ((x2 - x1)*proporcion)]]) # Le doy estos valores para que la imagen transformada quede centrada con respecto a la imagen original
     matrix = cv2.getPerspectiveTransform(pts1, pts2)
